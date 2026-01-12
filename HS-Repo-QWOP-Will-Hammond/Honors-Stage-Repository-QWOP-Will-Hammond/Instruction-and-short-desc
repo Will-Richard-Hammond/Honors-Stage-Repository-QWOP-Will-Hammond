@@ -1,0 +1,12 @@
+#QWOP-Vision-Input-Prototype
+#when run 3 seconds to position mouse to the top left
+#then 3 seconds to position to the bottom right.
+#S - input simulation
+#B - break
+#yellow (blinkcamp test)
+#    hsv_lower = (20, 80, 80)
+#    hsv_upper = (35, 255, 255)
+#brown (QWOP)
+#    hsv_lower = (20, 80, 80)
+#    hsv_upper = (35, 255, 255)
+
